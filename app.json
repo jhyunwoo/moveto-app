@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "moveto-app",
-    "slug": "moveto-app",
-    "version": "1.0.0",
+    "name": "Moveto",
+    "slug": "Moveto",
+    "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
@@ -14,7 +14,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "kr.moveto.moveto"
     },
     "android": {
       "adaptiveIcon": {
